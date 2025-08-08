@@ -6,11 +6,14 @@
 /*   By: bfernan2 <bfernan2@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/08/08 13:08:12 by bfernan2          #+#    #+#             */
-/*   Updated: 2025/08/08 13:34:36 by bfernan2         ###   ########.fr       */
+/*   Updated: 2025/08/08 16:15:32 by bfernan2         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef FT_PRINTF_H
 # define FT_PRINTF_H
+
+# include <unistd.h>
+# include <stdarg.h>
 
 #endif
